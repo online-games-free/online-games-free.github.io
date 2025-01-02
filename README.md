@@ -1,69 +1,34 @@
-# 1v1.LOL Game 🕹️
+# Online Games Free
 
-Welcome to **1v1.LOL Game**, the ultimate online multiplayer building and shooting game! Test your skills, challenge your friends, and dominate the leaderboard in this fast-paced, action-packed game.
+Welcome to **Online Games Free**, your ultimate destination for playing free online games! Enjoy a diverse collection of games ranging from action, puzzle, and strategy to multiplayer experiences. Dive into endless fun without the need for downloads or installations.
 
-🌐 **Play Now**: [1v1-lol-game.github.io](https://1v1-lol-game.github.io/)
+## Website
+Visit us at [https://online-games-free.github.io](https://online-games-free.github.io) to start playing!
 
----
+## Features
+- **Wide Game Selection**: Explore a variety of genres including action, puzzle, strategy, and multiplayer.
+- **Free to Play**: All games are completely free with no hidden charges.
+- **No Downloads Required**: Play instantly from your browser without any installations.
+- **Fun for All Ages**: Games suitable for kids, teens, and adults.
 
-## Features 🎮
+## How to Use
+1. Open [https://online-games-free.github.io](https://online-games-free.github.io) in your browser.
+2. Browse the game categories or search for your favorite game.
+3. Click on a game to start playing instantly.
 
-- 🛠️ Build structures to outsmart your opponents.
-- 🔫 Engage in thrilling 1v1 battles.
-- 🌍 Play online with friends or other players worldwide.
-- 📱 Fully responsive design—play on desktop, tablet, or mobile.
-- ⚡ Fast-paced action with minimal loading times.
-
----
-
-## How to Play?
-
-1. Visit [1v1-lol-game.github.io](https://1v1-lol-game.github.io/).
-2. Choose your game mode:
-   - **1v1 Battle**: Face off against a single opponent.
-   - **Build Mode**: Practice your building skills.
-   - **Custom Match**: Play with your friends.
-3. Use your skills to build, aim, and shoot to defeat your opponent!
-4. Climb the leaderboard and become the ultimate champion.
-
----
-
-## Controls 🎮
-
-- **Movement**: WASD or arrow keys
-- **Build**: Keys 1-5 (or tap on mobile)
-- **Shoot**: Left mouse button
-- **Aim**: Move your mouse or use the touchscreen
-- **Switch Weapons**: Scroll wheel or keys Q/E
-
----
-
-## Contribute 🛠️
-
-Want to help improve the game? We’d love your contributions! Follow these steps:
-
+## Contributions
+We welcome contributions to improve our website and expand our game collection! To contribute:
 1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit: `git commit -m 'Add your feature description'`.
-4. Push your changes: `git push origin feature/your-feature-name`.
-5. Open a pull request, and we’ll review it.
+2. Make your changes.
+3. Submit a pull request for review.
+
+## Feedback
+We value your feedback to make our platform better. Share your thoughts via:
+- Email: support@online-games-free.com
+- Feedback form on our website.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## Feedback and Support 📧
-
-Have suggestions or encountered an issue? Let us know!
-
-- GitHub Issues: [Report a problem](https://github.com/1v1-lol-game/issues)
-- Email: [support@1v1lolgame.com](mailto:fayazshaikh030303@gmail.com
-)
-
----
-
-## License 📜
-
-This project is licensed under the MIT License. For more information, check out the [LICENSE](LICENSE) file.
-
----
-
-### Play Now and Show Your Skills! 🚀
+Enjoy endless fun with **Online Games Free**!
